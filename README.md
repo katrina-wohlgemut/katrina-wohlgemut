@@ -1,5 +1,11 @@
-### Hi there 👋
 
+### Hi, I'm Katrina!
+😄 Pronouns: she/her <br />
+🏫 Third year Data Science student at the University of Waterloo <br />
+🌳 Junior Data Scientist (co-op) at Environment and Climate Change Canada <br />
+📫 Feel free to reach out on [linkedin](https://www.linkedin.com/in/katrina-wohlgemut-a9b355229/) 
+#### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=c,java,latex,linux,postgres,py,r)](https://skillicons.dev)
 <!--
 **katrina-wohlgemut/katrina-wohlgemut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
